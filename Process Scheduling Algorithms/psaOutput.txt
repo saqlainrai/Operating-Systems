@@ -1,0 +1,5 @@
+Name AT BT CT TAT WT
+P1 0 3 3 3 0
+P2 2 1 4 2 1
+P3 5 2 7 2 0
+P4 6 1 8 2 1
