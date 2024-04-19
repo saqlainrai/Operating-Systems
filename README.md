@@ -6,6 +6,12 @@
 ### Process Scheduling Algorithms
 
 #### First Come First Serve (FCFS)
-#### Priority Scheduling Algorithm (PSA)
+Input:
+- Takes the Arrival Time and Burst Time of Process
+Output:
+- Returns the Output in a file
+
+
 #### Shortest Job First (SJF)
+#### Priority Scheduling Algorithm (PSA)
 #### Round Robin (RR)
